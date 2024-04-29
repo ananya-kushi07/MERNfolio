@@ -1,4 +1,4 @@
-```markdown
+
 # MERNfolio
 
 MERNfolio is a portfolio web application built using the MERN stack, which consists of MongoDB, Express.js, React, and Node.js. This application allows users to showcase their projects, skills, and experience in a visually appealing and interactive manner.
