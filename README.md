@@ -81,5 +81,3 @@ This project is licensed under the [MIT License](LICENSE).
 - This project was inspired by [MERN.io](https://mern.io/).
 - Special thanks to the open-source community for their invaluable contributions.
 ```
-
-Feel free to modify and customize this README.md file according to your specific project details and requirements. You can add or remove sections as needed to provide comprehensive information about your MERNfolio project.
