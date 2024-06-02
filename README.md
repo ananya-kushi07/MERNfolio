@@ -17,6 +17,9 @@ Before running this application locally or deploying it, ensure that you have th
 - Node.js
 - MongoDB (Make sure MongoDB server is running)
 
+## Demo
+http://localhost:3000/
+
 ## Getting Started
 
 1. Clone the repository:
