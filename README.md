@@ -1,5 +1,3 @@
-# Link of the Report
-[Report link](https://docs.google.com/document/d/1zI-rQLiqXT0ZhOk78rKTH3jgmvscWW3J/edit?usp=sharing&ouid=102036245116059331854&rtpof=true&sd=true)
 
 # MERN Portfolio
 
