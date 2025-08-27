@@ -20,9 +20,9 @@ function Home2() {
             </h1>
             <p className="home-about-body">
          
-              <br />I am fluent in classics like
+              <br />I am good in
               <i>
-                <b className="purple">  and Javascript. </b>
+                <b className="purple"> C and Javascript. </b>
               </i>
               <br />
               <br />
@@ -31,7 +31,7 @@ function Home2() {
                 <b className="purple">Web Technologies and Products </b> and
                 also in areas related to{" "}
                 <b className="purple">
-                  Blockchain.
+                  Artificial Intelligence and Machine Learning
                 </b>
               </i>
               <br />
@@ -65,7 +65,7 @@ function Home2() {
             <ul className="home-about-social-links">
               <li className="social-icons">
                 <a
-                  href="https://github.com"
+                  href="https://github.com/ananya-kushi07"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour  home-social-icons"
@@ -85,7 +85,7 @@ function Home2() {
               </li> */}
               <li className="social-icons">
                 <a
-                  href="https://www.linkedin.com"
+                  href="https://www.linkedin.com/in/ananya-ks-b4660b26a"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour  home-social-icons"
@@ -95,7 +95,7 @@ function Home2() {
               </li>
               <li className="social-icons">
                 <a
-                  href="https://www.instagram.com"
+                  href="https://www.instagram.com/ananya._.gowda.__?igsh=MWRwNmF4bXNoa2p0OQ=="
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour home-social-icons"
