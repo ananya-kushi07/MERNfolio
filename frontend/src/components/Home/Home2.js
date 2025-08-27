@@ -22,7 +22,7 @@ function Home2() {
          
               <br />I am fluent in classics like
               <i>
-                <b className="purple"> C++ and Javascript. </b>
+                <b className="purple">  and Javascript. </b>
               </i>
               <br />
               <br />
@@ -50,11 +50,11 @@ function Home2() {
               </i>
             </p>
           </Col>
-          <Col md={4} className="myAvtar">
+          {/* <Col md={4} className="myAvtar">
             <Tilt>
               <img src={myImg} className="img-fluid" alt="avatar" />
             </Tilt>
-          </Col>
+          </Col> */}
         </Row>
         <Row>
           <Col md={12} className="home-about-social">
@@ -73,7 +73,7 @@ function Home2() {
                   <AiFillGithub />
                 </a>
               </li>
-              <li className="social-icons">
+              {/* <li className="social-icons">
                 <a
                   href="https://twitter.com"
                   target="_blank"
@@ -82,7 +82,7 @@ function Home2() {
                 >
                   <AiOutlineTwitter />
                 </a>
-              </li>
+              </li> */}
               <li className="social-icons">
                 <a
                   href="https://www.linkedin.com"

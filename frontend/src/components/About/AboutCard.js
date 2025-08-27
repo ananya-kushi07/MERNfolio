@@ -9,12 +9,11 @@ function AboutCard() {
         <blockquote className="blockquote mb-0">
           <p style={{ textAlign: "justify" }}>
             Hi Everyone, I am <span className="purple">Ananya </span>
-            from <span className="purple"> Daman and Diu, India.</span>
+            from <span className="purple"> Mangalore, India.</span>
             <br />
-            I am currently employed as a software developer at Juspay.
+            I am currently Final year CSE-Student at Sahyadri College of Engineering and Management.
             <br />
-            I have completed Integrated MSc (IMSc) in Maths and Computing at MIT
-            Manipal.
+            I have cleared my NAT Q5 (N5 equivalent) Japanese language proficiency test
             <br />
             <br />
             Apart from coding, some other activities that I love to do!
@@ -27,14 +26,11 @@ function AboutCard() {
               <ImPointRight /> Travelling
             </li>
             <li className="about-activity">
-              <ImPointRight /> Writing Tech Blogs 
+              <ImPointRight /> Watchind movies and dramas 
             </li>
           </ul>
 
-          <p style={{ color: "rgb(155 126 172)" }}>
-            "Strive to build things that make a difference!"{" "}
-          </p>
-          <footer className="blockquote-footer">Ananya</footer>
+        
         </blockquote>
       </Card.Body>
     </Card>
